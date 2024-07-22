@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UD5sMbarEx8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadik\\OneDrive\\Masaüstü\\Yeni klasör\\ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}
