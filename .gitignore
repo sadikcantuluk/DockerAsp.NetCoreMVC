@@ -1,0 +1,277 @@
+# Build Folders (binaries)
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Crash Reports
+*.crash
+
+# Debug and Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio temp folders
+.vs/
+
+# Visual Studio 2019 (v16.0) auto-generated files
+.vscode/
+
+# Mono auto-generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Cloud storage directories
+*.stackdump
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider project settings
+.idea/
+.idea/**
+
+# Node modules
+node_modules/
+
+# Npm package
+package-lock.json
+
+# Yarn package
+yarn.lock
+
+# Log files
+*.log
+
+# Azure
+LocalHistory/
+azure-pipelines.yml
+.vscode/settings.json
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Uncomment if using .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# StyleCop
+StyleCop.Cache
+
+# DotNetCore
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS Code directories
+.vscode/
+
+# ASP.NET Temporary files
+.vs/
+
+# dotnet core
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio Code Coverage
+.vscoverage/
+.vscoveragexml
+
+# User secrets
+secrets.json
+
+# Rider settings
+.idea/
+
+# ASP.NET Trace files
+trace.txt
+*.tlog
+
+# VS 2019 Generated files
+.vs/
+
+# Application Insights Telemetry folder
+ApplicationInsights.config
+
+# Rider projects
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# MSTest test Results
+TestResults
+
+# VS 2017 Local History
+.localhistory
+
+# Windows Azure Build Output
+csx
+*.build.csdef
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Cloud storage directories
+.next
+.next/
+
+# Auto generated files
+Generated_Code/
+
+# crash logs
+*.crash
+
+# Lock files
+*.lock
+
+# Docker
+docker-compose.override.yml
+docker-compose.*
+Dockerfile
+
+# Redis
+redis.conf
+
+# PostgreSQL
+pgdata/
+
+# MongoDB
+data/db/
+*.lock
+
+# MSSQL
+*.mdf
+*.ldf
+*.ndf
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Google Drive Integration
+credentials.json
+token.json
+
+# Identity Server
+.IdentityServer/
+
+# API Gateway
+.gateway/
+
+# Ocelot Gateway
+ocelot.json
+
+# Postman
+*.postman_collection.json
+*.postman_environment.json
+
+# Swagger
+swagger/
+swagger.json
+
+# Onion Architecture
+architecture/
+domain/
+application/
+infrastructure/
+webapi/
+
+# CQRS Design Pattern
+cqrs/
+commands/
+queries/
+
+# Mediator Design Pattern
+mediator/
+
+# Repository Design Pattern
+repository/
+
+# ASP.NET Core API
+api/
+controllers/
+models/
+
+# API Consume
+api.consume/
+
+# Rapid API
+rapidapi/
+
+# Authentication
+auth/
+authorization/
+
+# Json Web Token
+jwt/
+
+# JWT Bearer
+jwtbearer/
+
+# SignalR
+signalr/
+
+# Ajax
+ajax/

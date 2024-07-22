@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ASP.NetWebAppDeckor\ASP.NetWebAppDeckor
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/sadik/OneDrive/Masaüstü/Yeni klasör/ASP.NetWebAppDeckor/ASP.NetWebAppDeckor/Views/Home/ImageSave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbWFnZVNhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sadik/OneDrive/Masaüstü/Yeni klasör/ASP.NetWebAppDeckor/ASP.NetWebAppDeckor/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sadik/OneDrive/Masaüstü/Yeni klasör/ASP.NetWebAppDeckor/ASP.NetWebAppDeckor/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sadik/OneDrive/Masaüstü/Yeni klasör/ASP.NetWebAppDeckor/ASP.NetWebAppDeckor/Views/Home/ShowImages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93SW1hZ2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sadik/OneDrive/Masaüstü/Yeni klasör/ASP.NetWebAppDeckor/ASP.NetWebAppDeckor/Views/Shared/Error.cshtml]
