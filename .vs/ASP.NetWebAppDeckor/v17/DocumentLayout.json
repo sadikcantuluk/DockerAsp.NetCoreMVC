@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE2ADEB0-C966-4C3E-B1F6-5B2325889382}|ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor.csproj|c:\\users\\sadik\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\asp.netwebappdeckor\\asp.netwebappdeckor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AE2ADEB0-C966-4C3E-B1F6-5B2325889382}|ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor.csproj|solutionrelative:asp.netwebappdeckor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2ADEB0-C966-4C3E-B1F6-5B2325889382}|ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor.csproj|c:\\users\\sadik\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\asp.netwebappdeckor\\asp.netwebappdeckor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE2ADEB0-C966-4C3E-B1F6-5B2325889382}|ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor.csproj|solutionrelative:asp.netwebappdeckor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,15 +62,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sadik\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP.NetWebAppDeckor\\appsettings.json",
+              "ToolTip": "C:\\Users\\sadik\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor\\appsettings.json",
+              "RelativeToolTip": "ASP.NetWebAppDeckor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T20:29:49.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\sadik\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASP.NetWebAppDeckor\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\sadik\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ASP.NetWebAppDeckor\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T18:46:54.39Z",
+              "WhenOpened": "2024-08-15T20:27:04.394Z",
               "EditorCaption": ""
             },
             {
@@ -77,9 +94,9 @@
               "RelativeDocumentMoniker": "ASP.NetWebAppDeckor\\Dockerfile",
               "ToolTip": "C:\\Users\\sadik\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\ASP.NetWebAppDeckor\\ASP.NetWebAppDeckor\\Dockerfile",
               "RelativeToolTip": "ASP.NetWebAppDeckor\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-22T18:38:03.794Z",
+              "WhenOpened": "2024-08-04T18:43:29.348Z",
               "EditorCaption": ""
             }
           ]

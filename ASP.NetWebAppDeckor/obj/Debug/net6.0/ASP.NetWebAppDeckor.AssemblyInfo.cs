@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NetWebAppDeckor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007b4636ae2d03f920dad82d47822607cbe477aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21493ca87009cdcf73de6976f02cfbf9a9fae676")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NetWebAppDeckor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NetWebAppDeckor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
